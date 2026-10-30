@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-apitoagents-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://apitoagents.com/
+API to Agents (Neoval GmbH) builds and hosts Managed Model Context Protocol (MCP) servers that enable AI agents such as ChatGPT and Claude to interact with your API. We provide a free readiness audit, propose appropriate read‑tools, and deliver a hosted, secure MCP endpoint under your own subdomain, with tiered pricing for setup and ongoing hosting.
+
+**Areas:** Company · MCP · AI-Agents · API-Management · Hosting
+
+## apitoagents-com on APIs.io
+
+Everything profiled for apitoagents-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/apitoagents-com/](https://apis.io/providers/apitoagents-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [API to MCP](https://apis.io/apis/apitoagents-com/api-to-mcp/) — Managed MCP server platform enabling AI agents to interact with APIs, with tools, audit, and hosting.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Apitoagents Com Context](https://apis.io/jsonld/apitoagents-com/apitoagents-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Apitoagents Com Sample Api Overlay](https://apis.io/overlays/apitoagents-com/apitoagents-com-sample-api-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [apitoagents-com API Rules](https://apis.io/rules/apitoagents-com/apitoagents-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Apitoagents Com Authentication](https://apis.io/security/apitoagents-com/apitoagents-com-authentication/)
+- [Apitoagents Com Domain Security](https://apis.io/security/apitoagents-com/apitoagents-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Apitoagents Com Scopes](https://apis.io/scopes/apitoagents-com/apitoagents-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Apitoagents Com Plans Pricing](https://apis.io/plans/apitoagents-com/apitoagents-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Apitoagents Com Rate Limits](https://apis.io/rate-limits/apitoagents-com/apitoagents-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apitoagents.com/)
+- [Documentation](https://apitoagents.com/docs)
+- [Getting started](https://apitoagents.com/#how-it-works)
+- [API reference](https://apitoagents.com/docs)
+- [Pricing](https://apitoagents.com/pricing)
+- [Sign up](https://app.apitoagents.com/audit)
+- [Blog](https://apitoagents.com/blog)
+- [Security](https://apitoagents.com/security)
+- [Terms of service](https://apitoagents.com/terms)
+- [Privacy policy](https://apitoagents.com/privacy)
+- [GitHub](https://github.com/apitoagents)
+
+## API Evangelist rating
+
+**Kin Score 47.8** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 14.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 63.7 |
+
+**Agent readiness 15.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/apitoagents-com/](https://apis.io/providers/apitoagents-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for apitoagents-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/apitoagents-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
